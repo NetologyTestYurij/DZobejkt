@@ -124,5 +124,4 @@ print('Задание 1')
 print(cook_book)
 print('Задание 2')
 pprint(get_shop_list_by_dishes(dishes=['Запеченный картофель', 'Омлет', 'Щи'], person_count=2))
-#rewrite_file()
-
+rewrite_file()
